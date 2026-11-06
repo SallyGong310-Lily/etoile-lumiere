@@ -170,7 +170,7 @@ same launchers. If you move the `.app` outside the repository, set
   brightness, engagement rates) are genre-neutral.
 - **The eight-dimension text is a first draft, not a verdict.** Treat it as
   structured evidence to review, not as an automatically correct analysis.
-- **APIs and selectors change.** PyTok is pinned to `v0.3.0` in `requirements.txt`; if the upstream API moves, pin a tested commit.
+- **APIs and selectors change.** PyTok is pinned to commit `b04636c` in `requirements.txt`; if the upstream API moves, pin a tested commit.
 - **Rate limits and account risk are real.** Keep `--delay` at 4 seconds or
   higher, run small batches, and expect occasional challenges.
 

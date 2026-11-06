@@ -103,7 +103,7 @@ git pull
 If PyTok changed its API and the scripts break, pin the commit that worked:
 
 ```bash
-.venv/bin/pip install "pytok @ git+https://github.com/MEOMcGill/pytok.git@v0.3.0"
+.venv/bin/pip install "pytok @ git+https://github.com/MEOMcGill/pytok.git@b04636c9c137d5b7622516f74af4d6a12a0d035f"
 ```
 
 ## Uninstall

@@ -1,7 +1,8 @@
 # Python 3.10–3.12 on macOS.
 # PyTok is installed from upstream. It is PolyForm Noncommercial 1.0.0 —
 # see NOTICE and docs/legal.md before using this project commercially.
-pytok @ git+https://github.com/MEOMcGill/pytok.git@v0.3.0
+# Pinned to the commit that adds ConnectionDroppedException (v0.3.0 lacks it).
+pytok @ git+https://github.com/MEOMcGill/pytok.git@b04636c9c137d5b7622516f74af4d6a12a0d035f
 
 pandas>=2.2,<4
 numpy>=1.26
