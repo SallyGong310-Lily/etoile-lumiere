@@ -1,0 +1,9 @@
+# One hashtag per line. Lines starting with # are comments, but the app also
+# accepts comma-separated tags on the command line.
+blocus
+rentree
+octobrerose
+pfw
+backtoit
+winterarc
+autumnoutfit

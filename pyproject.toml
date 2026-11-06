@@ -1,0 +1,16 @@
+[project]
+name = "etoile-lumiere"
+version = "1.0.0"
+description = "macOS research apps for sampling and analysing Gen Z TikTok videos in France and the UK"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E9", "F63", "F7", "F82"]
+
+[project.urls]
+Repository = "https://github.com/SallyGong310-Lily/etoile-lumiere"

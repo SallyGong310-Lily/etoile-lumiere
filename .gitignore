@@ -1,0 +1,51 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# macOS
+.DS_Store
+._*
+.AppleDouble
+
+# Build artifacts
+dist/
+build/
+*.app/
+
+# Local account pool / credentials / browser profiles
+.pytok/
+pytok-data/
+cookies*.json
+*.session
+*.sqlite
+*.db
+
+# Scraped data and analysis outputs (never commit third-party content)
+Etoile_*.json
+Etoile_*.csv
+Etoile_*.xlsx
+Lumière_*/
+TikTokResearch/
+outputs/
+*.mp4
+*.mov
+*.vtt
+*.srt
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# Generated launchers (contain local paths / account labels)
+.run_session.sh
+.run_lumiere.sh
+
+# Report outputs if written to the repo root
+Lumière_Task1_*
+Storyboard_*.png

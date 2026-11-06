@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software in academic work, please cite it."
+title: "Étoile & Lumière: macOS research apps for Gen Z TikTok analysis"
+authors:
+  - family-names: Gong
+    given-names: Xiaoli
+version: 1.0.0
+date-released: "2026-11-06"
+license: MIT
+repository-code: "https://github.com/SallyGong310-Lily/etoile-lumiere"
+abstract: >-
+  Étoile samples TikTok hashtags and filters creators by market (France, United
+  Kingdom, global). Lumière analyses selected videos for structure, audience,
+  tone, visuals, engagement, culture and trend representation, producing an
+  Excel/Markdown evidence pack. Research tooling; not affiliated with TikTok.

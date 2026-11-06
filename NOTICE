@@ -1,0 +1,44 @@
+Étoile & Lumière — third-party notices
+=======================================
+
+This project's own source code is released under the MIT License (see LICENSE).
+It depends on the following third-party software. Their licenses apply to their
+own code and are not changed by this project's MIT license.
+
+1. PyTok — https://github.com/MEOMcGill/pytok
+   License: PolyForm Noncommercial License 1.0.0
+   Required Notice: Copyright 2022 Ben Steel and the PyTok contributors
+   PyTok is NOT vendored in this repository; it is installed from its upstream
+   repository as a dependency. You are responsible for complying with its
+   noncommercial terms. If you need commercial use, obtain a separate license
+   from the PyTok authors or replace the client layer.
+
+2. Camoufox — https://github.com/daijro/camoufox
+   License: MPL-2.0
+
+3. Playwright for Python — https://github.com/microsoft/playwright-python
+   License: Apache-2.0
+
+4. OpenCV — https://opencv.org/
+   License: Apache-2.0
+
+5. pandas — https://pandas.pydata.org/
+   License: BSD-3-Clause
+
+6. NumPy — https://numpy.org/
+   License: BSD-3-Clause
+
+7. openpyxl — https://openpyxl.readthedocs.io/
+   License: MIT
+
+8. langdetect — https://github.com/Mimino666/langdetect
+   License: Apache-2.0
+
+9. yt-dlp — https://github.com/yt-dlp/yt-dlp
+   License: Unlicense
+
+10. HTTPX — https://www.python-httpx.org/
+    License: BSD-3-Clause
+
+App icons and artwork in assets/ are original works by the project authors,
+released under the same MIT license as the source code.
